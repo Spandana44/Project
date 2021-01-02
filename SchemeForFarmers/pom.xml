@@ -3,8 +3,7 @@
   <groupId>com.lti</groupId>
   <artifactId>SchemeForFarmers</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-<<<<<<< HEAD
-=======
+  
   <dependencies>
         <dependency>
             <groupId>org.hibernate</groupId>
